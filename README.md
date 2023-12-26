@@ -48,7 +48,11 @@ To install and run this project locally, follow these steps:
 
 ## Performance checking
 
+No caching used
+
 ![Alt text](./screenshots/screenshot1.jpg)
+
+Caching Used
 
 ![Alt text](./screenshots/screenshot2.jpg)
 
